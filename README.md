@@ -34,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/2349-design-a-number-container-system) |
+## Design
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/2349-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
