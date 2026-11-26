@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/2349-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lrsbhai1234-byte/inyleetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
